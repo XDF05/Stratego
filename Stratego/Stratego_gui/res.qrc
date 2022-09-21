@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="12">images/bomb.svg</file>
+        <file alias="6">images/captain.svg</file>
+        <file alias="8">images/colonel.svg</file>
+        <file alias="11">images/flag.svg</file>
+        <file alias="9">images/general.svg</file>
+        <file alias="5">images/lieutenant.svg</file>
+        <file alias="7">images/major.svg</file>
+        <file alias="10">images/marshal.svg</file>
+        <file alias="3">images/miner.svg</file>
+        <file alias="2">images/scout.svg</file>
+        <file alias="4">images/sergeant.svg</file>
+        <file alias="1">images/spy.svg</file>
+        <file alias="-1">images/water.svg</file>
+        <file alias="hidden">images/hidden.svg</file>
+    </qresource>
+</RCC>
